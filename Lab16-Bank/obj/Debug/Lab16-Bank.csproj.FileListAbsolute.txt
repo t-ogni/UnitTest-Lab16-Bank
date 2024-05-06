@@ -1,0 +1,8 @@
+C:\Users\stud\Desktop\Lab16-Bank\bin\Debug\Lab16-Bank.exe.config
+C:\Users\stud\Desktop\Lab16-Bank\bin\Debug\Lab16-Bank.exe
+C:\Users\stud\Desktop\Lab16-Bank\bin\Debug\Lab16-Bank.pdb
+C:\Users\stud\Desktop\Lab16-Bank\obj\Debug\Lab16-Bank.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Lab16-Bank\obj\Debug\Lab16-Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\Lab16-Bank\obj\Debug\Lab16-Bank.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Lab16-Bank\obj\Debug\Lab16-Bank.exe
+C:\Users\stud\Desktop\Lab16-Bank\obj\Debug\Lab16-Bank.pdb
